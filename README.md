@@ -1,16 +1,16 @@
-### Hi there 👋
+ <h1 align="center">Hi 👋, I'm Mohamed Hussein</h1>
+<h3 align="center">Flutter Developer</h3>
 
-<!--
-**MohamedHussein74/MohamedHussein74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Flutter Developer**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/MohamedHussein74]( https://github.com/MohamedHussein74)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Dart , Flutter**
+
+- 📫 How to reach me **mh7646833@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmed-reda-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hussein-208221288/" height="30" width="40" /></a>
+<a href="https://fb.com/abo.hussein.562/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedxreda0" height="30" width="40" /></a>
+</p>
