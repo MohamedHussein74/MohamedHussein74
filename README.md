@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedHussein74]( https://github.com/MohamedHussein74)
-
+ <img src="https://github.com/MohamedHussein74/MohamedHussein74/blob/main/profile-img.png" align="right" width="25%"/>
 - 💬 Ask me about **Dart , Flutter**
 
 - 📫 How to reach me **mh7646833@gmail.com**
- <img src="https://github.com/MohamedHussein74/MohamedHussein74/blob/main/profile-img.png" align="right" width="25%"/>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-reda-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hussein-208221288/" height="30" width="40" /></a>
