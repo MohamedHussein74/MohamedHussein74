@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Mohamed Hussein</h1>
 <h3 align="center">Flutter Developer</h3>
-
+ <img src="https://github.com/MohamedHussein74/MohamedHussein74/blob/main/profile-img.png" align="right" width="25%"/>
 - 🌱 I’m currently learning **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedHussein74]( https://github.com/MohamedHussein74)
- <img src="https://github.com/MohamedHussein74/MohamedHussein74/blob/main/profile-img.png" align="right" width="25%"/>
+ 
 - 💬 Ask me about **Dart , Flutter**
 
 - 📫 How to reach me **mh7646833@gmail.com**
